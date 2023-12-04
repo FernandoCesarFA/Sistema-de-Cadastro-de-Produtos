@@ -1,0 +1,3 @@
+C:/Users/Fernando/Desktop/Fumec/Estrutura de dados/Atividades Avaliativas/Atividade Avaliativa 03 - Discursiva/cmake-build-debug/CMakeFiles/Atividade_Avaliativa_03___Discursiva.dir
+C:/Users/Fernando/Desktop/Fumec/Estrutura de dados/Atividades Avaliativas/Atividade Avaliativa 03 - Discursiva/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fernando/Desktop/Fumec/Estrutura de dados/Atividades Avaliativas/Atividade Avaliativa 03 - Discursiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
